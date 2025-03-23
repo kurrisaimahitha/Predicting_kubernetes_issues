@@ -7,6 +7,9 @@ Repository Structure
  docs/                  → Documentation (README, installation guide, usage guide)  
  presentation/          → Slides & recorded demo (YouTube/Drive link)
 
+Model
+The code file for trained model
+
 🔧 Installation & Setup
 git clone https://github.com/kurrisaimahitha/Predicting_kubernetes_issues.git 
 cd your-project  
