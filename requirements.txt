@@ -1,1 +1,9 @@
+numpy  
+pandas  
+scikit-learn  
+tensorflow  
+torch  
+transformers  
+opencv-python  
+flask  
 
